@@ -1,1 +1,1 @@
-hola = (if a == b for a in range(1,10) )
+
